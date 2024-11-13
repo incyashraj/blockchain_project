@@ -81,21 +81,21 @@ MetaMask: Allows users to interact with decentralized applications and manage to
 Remit: Enables integration with smart contracts to handle the cryptocurrency created.
 
 
-File Structure
+## File Structure
 
-main.py: The main application file containing the blockchain and Flask API setup.
+blockchain.py: The main application file containing the blockchain and Flask API setup.
 requirements.txt: Lists all dependencies required to run the project.
 
-Requirements.txt
+## Requirements.txt
 This file lists the libraries required for the project. Run the following command to install them:
 
 ```bash
 pip install -r requirements.txt
 ```
-License
+## License
 This project is licensed under the MIT License.
 
-Contributors
+## Contributors
 
 Yashraj Pardeshi (@incyashraj) - Initial creator and developer of the project.
 
