@@ -98,8 +98,5 @@ This project is licensed under the MIT License.
 Contributors
 
 Yashraj Pardeshi (@incyashraj) - Initial creator and developer of the project.
-``` yaml
 
-This `README.md` now includes a **Contributors** section where you can add more contributors if needed. Let me know if there are any additional updates you’d like!
-```
 
